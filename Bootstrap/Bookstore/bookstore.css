@@ -1,0 +1,42 @@
+body{
+    font-family:'Times New Roman', Times, serif !important;
+    background: linear-gradient(45deg, rgba(248, 248, 42, 0.912), plum);
+}
+
+h1{
+    text-align: center;
+    margin-top: 40px !important;
+}
+
+nav{
+text-align: center;
+}
+
+nav li{
+    display: inline;
+    border-right: 1px solid black ;
+    padding-right: 8px;
+}
+
+nav .different{
+border-right: none;
+}
+
+.search{
+    width: 80%;
+    height: auto;
+    margin: 30px auto 0 auto;
+    display: flex;
+}
+
+.search input{
+width:80%;
+margin-right:  10px;
+border: 2px solid black;
+}
+
+
+.search .btn.btn-primary{
+width: 20%;
+color: white;
+}

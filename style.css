@@ -1,8 +1,6 @@
 
-      head{
-        font: .family;
-      }
       
+
       body{background-color:whitesmoke;}
 
         a{
@@ -58,10 +56,6 @@ background-size:cover;
 box-shadow: 10px 10px 50px grey;
 }
 
-.parent-container{
-dislay: flex
-
-}
 
 .first{
     background-image:url(". ") ;
