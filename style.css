@@ -1,5 +1,10 @@
 
-       body{background-color:whitesmoke;}
+      head{
+        font: .family;
+      }
+      
+      body{background-color:whitesmoke;}
+
         a{
             border:2px solid rgb(149, 193, 227);
             color:rgb(25, 241, 43);
@@ -43,4 +48,22 @@ padding-bottom:20px;
 }
 .navbar{
 font-weight: 200;
+}
+
+.flex-item{
+width:23%;
+height:20px;
+background-position:center;
+background-size:cover;
+box-shadow: 10px 10px 50px grey;
+}
+
+.parent-container{
+dislay: flex
+
+}
+
+.first{
+    background-image:url(". ") ;
+
 }
